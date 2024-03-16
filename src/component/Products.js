@@ -12,5 +12,6 @@ const Products = () => {
   )
 }
 // outlet is used to render matching child route under set of   route;
+// Relative paths or relative links doesn't start with '/';
 
 export default Products;

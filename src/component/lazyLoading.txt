@@ -1,0 +1,3 @@
+lazy loading : 
+it is a technique in which components not need in home are splitted into bundles and only loaded when needed;
+it improves loading time;
